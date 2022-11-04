@@ -1,0 +1,59 @@
+body{
+	background-color: #04050d;
+}
+.nav h2{
+	color: white;
+}
+
+form{
+	background-color: #9fb394;
+	width: 40%;
+	padding: 30px;
+	padding-top: 50px;
+	padding-bottom: 70px;
+	border-radius: 30px;
+	color: 1px solid black;
+	margin-left: 280px;
+	margin-top: 45px;
+	font-family: 'Aref Ruqaa Ink', serif;
+}
+
+form h3{
+	text-align: center;
+	color: black;
+	font-weight: 20px;
+	font-size: 30px;
+	font-family: 'Aref Ruqaa Ink', serif;
+	margin-bottom: 30px;
+}
+
+form input{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-sizing: border-box;
+	border-color: grey;
+	border-style: 1px solid;
+	border-radius: 20px;
+	padding-left: 13px;
+	margin-bottom: 10px;
+}
+form button{
+	margin-top: 20px;
+	background-color: black;
+	color: white;
+	padding: 10px;
+	border-radius: 15px;
+	margin-bottom: 30px;
+
+}
+form .row .col i{
+	font-size: 35px;
+	padding-left: 30px;
+	margin-bottom: 30px;
+	color: #12170f;
+}
+
+form .bottom p{
+	text-align: center;
+}
+
